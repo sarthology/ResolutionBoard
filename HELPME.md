@@ -54,6 +54,8 @@ You can also registered small achivements with help of progress stamps. Just add
 * Jan 19: My weight is 90kg
 	
 * Mar 19: My weight is 85kg
+## archive
+Store all your previous year resolution boards here. Just change the README.md's name to year like 2018.md and come back here to get your next year's Resolution Board. 😊
 
 ## Thanks ❤️
 I hope you all like this. If you have some new ideas for **Resolution Board**. Tweet me @sarthology.
