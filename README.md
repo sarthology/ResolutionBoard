@@ -37,5 +37,5 @@ This year I will be faking to achive a weight of 76kgs
 * Jan 19: My weight is 90kg
 * Mar 19: My weight is 85kg
 
-## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-90%25-darkgreen.svg)
+## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-90%25-green.svg)
 This year my fake is that I will mentor 6 youngsters 
