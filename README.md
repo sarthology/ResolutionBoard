@@ -22,7 +22,7 @@ This year my fake is that I will work on 3 open source projects
 - [ ] [myusername/project3-2.0](#)
 
 
-## Resolution 3 ✈️ ![](https://img.shields.io/badge/completed-10%25-red.svg)
+## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-10%25-red.svg)
 This year my fake is that I will travel to 6 new places.
 
 - [x] Place 1
@@ -34,6 +34,8 @@ This year my fake is that I will travel to 6 new places.
 
 ## Resolution 4 💪🏼 ![](https://img.shields.io/badge/completed-100%25-darkgreen.svg)
 This year I will be faking to achive a weight of 76kgs
+* Jan 19: My weight is 90kg
+* Mar 19: My weight is 85kg
 
-## Resolution 5 🤝 ![](https://img.shields.io/badge/completed-90%25-darkgreen.svg)
+## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-90%25-darkgreen.svg)
 This year my fake is that I will mentor 6 youngsters 
