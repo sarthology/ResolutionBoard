@@ -5,7 +5,7 @@
 This is The Resolution Board, a template created to help you achieve your New Year Resolutions.  
 
 ## Resolution 1 📚 ![](https://img.shields.io/badge/progress-80%25-green.svg)
-This year my fake is that I will read 5 books.
+This year my fake resolution is that I will read 5 books.
 
 - [x] [Book 1](#)
 - [x] [Book 2](#)
@@ -14,7 +14,7 @@ This year my fake is that I will read 5 books.
 
 ## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
 
-This year my fake is that I will work on 3 open source projects
+This year my fake resolution is that I will work on 3 open source projects
 
 - [x] [myusername/project1](#)
 - [x] [myusername/project2](#)
@@ -23,7 +23,7 @@ This year my fake is that I will work on 3 open source projects
 
 
 ## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-10%25-red.svg)
-This year my fake is that I will travel to 6 new places.
+This year my fake resolution is that I will travel to 6 new places.
 
 - [x] Place 1
 - [x] Place 2
@@ -38,4 +38,4 @@ This year I will be faking to achive a weight of 76kgs
 * Mar 19: My weight is 85kg
 
 ## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-90%25-green.svg)
-This year my fake is that I will mentor 6 youngsters 
+This year my fake resolution is that I will mentor 6 youngsters 
