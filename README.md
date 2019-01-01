@@ -13,7 +13,7 @@ This year my my resolution is that I will read at least 12 books.
 - [ ] [Small Giants](https://www.amazon.com/Small-Giants-Companies-Instead-10th-Anniversary/dp/014310960X) - *Bo Burlingham*
 - [ ] [Tools of titan](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_2?ie=UTF8&qid=1546324870&sr=8-2&keywords=tools+of+titans) - *Timothy Ferriss*
 
-## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
+## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-8.33%25-red.svg)
 
 This year my resolution is that I will work on 12 open source projects
 
@@ -22,17 +22,18 @@ This year my resolution is that I will work on 12 open source projects
 - [ ] [sarthology/dev10](https://github.com/sarthology/Dev10)
 
 
-## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-10%25-red.svg)
-This year my my resolution is that I will travel aboard.
+## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-0%25-red.svg)
+This year my resolution is that I will travel aboard.
 
-## Resolution 4 💪🏼 ![](https://img.shields.io/badge/completed-100%25-darkgreen.svg)
+## Resolution 4 💪🏼 ![](https://img.shields.io/badge/progress-8.33%25-red.svg)
 This year I will maintain my body weight to 65-67kg (*current*)
+* **Jan 2019** - 67kg
 
-## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-90%25-green.svg)
+## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-3.33%25-red.svg)
 This year my resolution is that I will publish at least 30 articles.
 
 * [One Powerful Technique to Achieve More in 2019 📓](https://medium.com/@Sarthaksharma0/one-powerful-technique-to-achieve-more-in-2019-6f1d4b816d89)
 
-## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-90%25-green.svg)
+## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 This year my resolution is that I will mentor 6 youngsters 
 Tweet me [@sarthology](https://twitter.com/sarthology)
