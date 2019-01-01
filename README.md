@@ -2,40 +2,37 @@
   <img src="https://i.imgur.com/thKzPkw.png">
 </div>
 
-This is The Resolution Board, a template created to help you achieve your New Year Resolutions.  
+This is The Resolution Board, a template created to help you achieve your New Year Resolutions and these are my new year resolutions.
 
-## Resolution 1 📚 ![](https://img.shields.io/badge/progress-80%25-green.svg)
-This year my fake resolution is that I will read 5 books.
+## Resolution 1 📚 ![](https://img.shields.io/badge/progress-0%25-red.svg)
+This year my my resolution is that I will read at least 12 books.
 
-- [x] [Book 1](#)
-- [x] [Book 2](#)
-- [ ] [Book 3](#)
-- [ ] [Book3](#)
+- [ ] [Hard things about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - *Ben Horowitz*
+- [ ] [A Short Guide to a Long Life](https://www.amazon.com/Short-Guide-Long-Life/dp/147673609X) - *David B. Agus M.D.*
+- [ ] [Thirty Essentials: Strategy](https://www.amazon.com/Thirty-Essentials-Strategy-strategy-companies-ebook/dp/B079LQVXNB) - *Andrew Laurie*
+- [ ] [Small Giants](https://www.amazon.com/Small-Giants-Companies-Instead-10th-Anniversary/dp/014310960X) - *Bo Burlingham*
+- [ ] [Tools of titan](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_2?ie=UTF8&qid=1546324870&sr=8-2&keywords=tools+of+titans) - *Timothy Ferriss*
 
 ## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
 
-This year my fake resolution is that I will work on 3 open source projects
+This year my resolution is that I will work on 12 open source projects
 
-- [x] [myusername/project1](#)
-- [x] [myusername/project2](#)
-- [ ] ~~[myusername/project3](#)~~
-- [ ] [myusername/project3-2.0](#)
+- [x] [sarthology/ResolutionBoard](https://github.com/sarthology/ResolutionBoard)
+- [ ] [sarthology/nomoogle](https://github.com/sarthology/nomoogle)
+- [ ] [sarthology/dev10](https://github.com/sarthology/Dev10)
 
 
 ## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-10%25-red.svg)
-This year my fake resolution is that I will travel to 6 new places.
-
-- [x] Place 1
-- [x] Place 2
-- [ ] Place 3
-- [ ] Place 4
-- [ ] Place 5
-- [ ] Place 6
+This year my my resolution is that I will travel aboard.
 
 ## Resolution 4 💪🏼 ![](https://img.shields.io/badge/completed-100%25-darkgreen.svg)
-This year I will be faking to achive a weight of 76kgs
-* Jan 19: My weight is 90kg
-* Mar 19: My weight is 85kg
+This year I will maintain my body weight to 65-67kg (*current*)
 
 ## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-90%25-green.svg)
-This year my fake resolution is that I will mentor 6 youngsters 
+This year my resolution is that I will publish at least 30 articles.
+
+* [One Powerful Technique to Achieve More in 2019 📓](https://medium.com/@Sarthaksharma0/one-powerful-technique-to-achieve-more-in-2019-6f1d4b816d89)
+
+## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-90%25-green.svg)
+This year my resolution is that I will mentor 6 youngsters 
+Tweet me [@sarthology](https://twitter.com/sarthology)
