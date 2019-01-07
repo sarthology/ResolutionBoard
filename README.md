@@ -33,7 +33,7 @@ This year I will maintain my body weight to 65-67kg (*current*)
 This year my resolution is that I will publish at least 30 articles.
 
 * [One Powerful Technique to Achieve More in 2019 📓](https://medium.com/@Sarthaksharma0/one-powerful-technique-to-achieve-more-in-2019-6f1d4b816d89)
-
+* [Use the full power of Your Brain to be a Better Developer 🧠❤️👩🏻‍💻](https://dev.to/teamxenox/use-the-full-power-of-your-brain-to-be-a-better-developer--27pe)
 ## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 This year my resolution is that I will mentor 6 youngsters 
 Tweet me [@sarthology](https://twitter.com/sarthology)
