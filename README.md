@@ -29,7 +29,7 @@ This year my resolution is that I will travel aboard.
 This year I will maintain my body weight to 65-67kg (*current*)
 * **Jan 2019** - 67kg
 
-## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-3.33%25-red.svg)
+## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-6.66%25-red.svg)
 This year my resolution is that I will publish at least 30 articles.
 
 * [One Powerful Technique to Achieve More in 2019 📓](https://medium.com/@Sarthaksharma0/one-powerful-technique-to-achieve-more-in-2019-6f1d4b816d89)
