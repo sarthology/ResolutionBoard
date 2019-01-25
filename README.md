@@ -32,12 +32,13 @@ This year my resolution is that I will travel aboard.
 This year I will maintain my body weight to 65-67kg (*current*)
 * **Jan 2019** - 67kg
 
-## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-9.99%25-red.svg)
+## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-13%25-red.svg)
 This year my resolution is that I will publish at least 30 articles.
 
 * [One Powerful Technique to Achieve More in 2019 📓](https://medium.com/@Sarthaksharma0/one-powerful-technique-to-achieve-more-in-2019-6f1d4b816d89)
 * [Use the full power of Your Brain to be a Better Developer 🧠❤️👩🏻‍💻](https://dev.to/teamxenox/use-the-full-power-of-your-brain-to-be-a-better-developer--27pe)
 * [15 underrated VSCode Themes for a change in 2019 🤷🏻‍♀️](https://dev.to/teamxenox/15-underrated-vscode-themes-for-a-change-in-2019---122e)
+* [Do we really need a CSS Framework?](https://dev.to/sarthology/do-we-really-need-a-css-framework-4ma6)
 
 ## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 This year my resolution is that I will mentor 6 youngsters 
