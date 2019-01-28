@@ -4,11 +4,11 @@
 
 This is The Resolution Board, a template created to help you achieve your New Year Resolutions and these are my new year resolutions.
 
-## Resolution 1 📚 ![](https://img.shields.io/badge/progress-0%25-red.svg)
+## Resolution 1 📚 ![](https://img.shields.io/badge/progress-8.33%25-red.svg)
 This year my my resolution is that I will read at least 12 books.
 
 - [ ] [Hard things about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - *Ben Horowitz*
-- [ ] [A Short Guide to a Long Life](https://www.amazon.com/Short-Guide-Long-Life/dp/147673609X) - *David B. Agus M.D.*
+- [x] [A Short Guide to a Long Life](https://www.amazon.com/Short-Guide-Long-Life/dp/147673609X) - *David B. Agus M.D.*
 - [ ] [Thirty Essentials: Strategy](https://www.amazon.com/Thirty-Essentials-Strategy-strategy-companies-ebook/dp/B079LQVXNB) - *Andrew Laurie*
 - [ ] [Small Giants](https://www.amazon.com/Small-Giants-Companies-Instead-10th-Anniversary/dp/014310960X) - *Bo Burlingham*
 - [ ] [Tools of titan](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_2?ie=UTF8&qid=1546324870&sr=8-2&keywords=tools+of+titans) - *Timothy Ferriss*
