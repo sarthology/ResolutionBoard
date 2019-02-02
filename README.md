@@ -26,7 +26,7 @@ This year my resolution is that I will work on 12 open source projects
 
 
 ## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-0%25-red.svg)
-This year my resolution is that I will travel aboard.
+Taiwan - From **2 Feb to 1 March** Long Trip.
 
 ## Resolution 4 💪🏼 ![](https://img.shields.io/badge/progress-8.33%25-red.svg)
 This year I will maintain my body weight to 65-67kg (*current*)
