@@ -13,14 +13,14 @@ This year my my resolution is that I will read at least 12 books.
 - [ ] [Small Giants](https://www.amazon.com/Small-Giants-Companies-Instead-10th-Anniversary/dp/014310960X) - *Bo Burlingham*
 - [ ] [Tools of titan](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_2?ie=UTF8&qid=1546324870&sr=8-2&keywords=tools+of+titans) - *Timothy Ferriss*
 
-## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-25%25-yellow.svg)
+## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-33%25-yellow.svg)
 
 This year my resolution is that I will work on 12 open source projects
 
 - [x] [sarthology/ResolutionBoard](https://github.com/sarthology/ResolutionBoard)
 - [x] [sarthology/Animatopy](https://github.com/sarthology/Animatopy)
 - [x] [sarthology/dev10](https://github.com/sarthology/Dev10)
-- [ ] [sarthology/devtocli](https://github.com/sarthology/devtocli)
+- [x] [sarthology/devtocli](https://github.com/sarthology/devtocli)
 - [ ] [sarthology/nomoogle](https://github.com/sarthology/nomoogle)
 
 
