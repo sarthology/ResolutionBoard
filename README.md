@@ -43,7 +43,7 @@ This year my resolution is that I will publish at least 30 articles.
 * [What's the best source of caffeine for you?](https://dev.to/teamxenox/whats-the-best-source-of-caffeine-for-you--2lfd)
 * [How to make Dynamic Text Overlays on Images?](https://dev.to/teamxenox/how-to-make-dynamic-text-overlays-on-images-dcc)
 
-## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-0%25-red.svg)
+## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-17%25-red.svg)
 This year my resolution is that I will mentor 6 youngsters
 - [x] [Pavan Jadhaw](https://github.com/pavanjadhaw)
 
