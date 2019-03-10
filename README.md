@@ -13,6 +13,7 @@ This year my my resolution is that I will read at least 12 books.
 - [ ] [Thirty Essentials: Strategy](https://www.amazon.com/Thirty-Essentials-Strategy-strategy-companies-ebook/dp/B079LQVXNB) - *Andrew Laurie*
 - [ ] [Small Giants](https://www.amazon.com/Small-Giants-Companies-Instead-10th-Anniversary/dp/014310960X) - *Bo Burlingham*
 - [ ] [Tools of titan](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_2?ie=UTF8&qid=1546324870&sr=8-2&keywords=tools+of+titans) - *Timothy Ferriss*
+- [x] [The Old Man and The Sea](https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway/dp/0684801221/ref=sr_1_1?crid=3QEZOQHBYQX3G&keywords=old+and+the+sea&qid=1552198476&s=gateway&sprefix=old+and+the+%2Caps%2C349&sr=8-1) - *Ernest Hemingway*
 
 ## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-33%25-yellow.svg)
 
