@@ -35,7 +35,7 @@ This year I will maintain my body weight to 65-67kg (*current*)
 * **Jan 2019** - 67kg
 * **Feb 2019** - 65.5kg
 
-## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-27%25-yellow.svg)
+## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-30%25-yellow.svg)
 This year my resolution is that I will publish at least 30 articles.
 
 * [One Powerful Technique to Achieve More in 2019 📓](https://medium.com/@Sarthaksharma0/one-powerful-technique-to-achieve-more-in-2019-6f1d4b816d89)
@@ -46,6 +46,7 @@ This year my resolution is that I will publish at least 30 articles.
 * [How to make Dynamic Text Overlays on Images?](https://dev.to/teamxenox/how-to-make-dynamic-text-overlays-on-images-dcc)
 * [🎁💝DevTo CLI💝🎁: A Valentine's Day Gift To My Favorite People](https://dev.to/teamxenox/devto-cli-a-valentines-day-gift-to-my-favorite-people-56bd)
 * [🇹🇼✈️ Taking DEV to Taiwan with me ✈️🇹🇼](https://dev.to/teamxenox/-taking-dev-to-taiwan-with-me--2c77)
+* [#100DaysofCode worth it or not? 🤔](https://dev.to/teamxenox/100daysofcode-worth-it-or-not--1dh8)
 
 ## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-17%25-red.svg)
 This year my resolution is that I will mentor 6 youngsters
