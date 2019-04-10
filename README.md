@@ -4,7 +4,7 @@
 
 This is The Resolution Board, a template created to help you achieve your New Year Resolutions and these are my new year resolutions.
 
-## Resolution 1 📚 ![](https://img.shields.io/badge/progress-25%25-red.svg)
+## Resolution 1 📚 ![](https://img.shields.io/badge/progress-25%25-yellow.svg)
 This year my my resolution is that I will read at least 12 books.
 
 - [ ] [Hard things about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - *Ben Horowitz*
