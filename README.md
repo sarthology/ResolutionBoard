@@ -4,12 +4,12 @@
 
 This is The Resolution Board, a template created to help you achieve your New Year Resolutions and these are my new year resolutions.
 
-## Resolution 1 📚 ![](https://img.shields.io/badge/progress-17%25-red.svg)
+## Resolution 1 📚 ![](https://img.shields.io/badge/progress-25%25-red.svg)
 This year my my resolution is that I will read at least 12 books.
 
 - [ ] [Hard things about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - *Ben Horowitz*
 - [x] [A Short Guide to a Long Life](https://www.amazon.com/Short-Guide-Long-Life/dp/147673609X) - *David B. Agus M.D.*
-- [ ] [Influence and Persuasion](https://www.amazon.com/Influence-Persuasion-HBR-Emotional-Intelligence-ebook/dp/B06XVBLYVS) - *HBR Emotional Intelligence Series*
+- [x] [Influence and Persuasion](https://www.amazon.com/Influence-Persuasion-HBR-Emotional-Intelligence-ebook/dp/B06XVBLYVS) - *HBR Emotional Intelligence Series*
 - [ ] [Thirty Essentials: Strategy](https://www.amazon.com/Thirty-Essentials-Strategy-strategy-companies-ebook/dp/B079LQVXNB) - *Andrew Laurie*
 - [ ] [Small Giants](https://www.amazon.com/Small-Giants-Companies-Instead-10th-Anniversary/dp/014310960X) - *Bo Burlingham*
 - [ ] [Tools of titan](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_2?ie=UTF8&qid=1546324870&sr=8-2&keywords=tools+of+titans) - *Timothy Ferriss*
@@ -37,7 +37,7 @@ This year I will maintain my body weight to 65-67kg (*current*)
 * **Feb 2019** - 65.5kg
 * **Mar 2019** - 67.2kg
 
-## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-37%25-yellow.svg)
+## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-40%25-yellow.svg)
 This year my resolution is that I will publish at least 30 articles.
 
 * [One Powerful Technique to Achieve More in 2019 📓](https://medium.com/@Sarthaksharma0/one-powerful-technique-to-achieve-more-in-2019-6f1d4b816d89)
@@ -51,6 +51,7 @@ This year my resolution is that I will publish at least 30 articles.
 * [#100DaysofCode worth it or not? 🤔](https://dev.to/teamxenox/100daysofcode-worth-it-or-not--1dh8)
 * [Make a Linux dev server for less than 50$/life 😱](https://dev.to/teamxenox/make-a-linux-dev-server-for-less-than-50life--3gc7)
 * [🤯 Ultra List: One List to Rule Them All. March, 19](https://dev.to/teamxenox/-ultra-list-one-list-to-rule-them-all-march-19-4p4f)
+* [Deploy a Static Site in 3 Steps 👆🏼✌🏼🤟🏼](https://dev.to/teamxenox/deploy-a-static-site-in-3-steps-5dag)
 
 ## Resolution 6 🤝 ![](https://img.shields.io/badge/progress-17%25-red.svg)
 This year my resolution is that I will mentor 6 youngsters
