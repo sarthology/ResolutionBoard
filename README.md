@@ -7,7 +7,7 @@ This is The Resolution Board, a template created to help you achieve your New Ye
 ## Resolution 1 📚 ![](https://img.shields.io/badge/progress-25%25-yellow.svg)
 This year my my resolution is that I will read at least 12 books.
 
-- [ ] [Hard things about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - *Ben Horowitz*
+- [x] [Hard things about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - *Ben Horowitz*
 - [x] [A Short Guide to a Long Life](https://www.amazon.com/Short-Guide-Long-Life/dp/147673609X) - *David B. Agus M.D.*
 - [x] [Influence and Persuasion](https://www.amazon.com/Influence-Persuasion-HBR-Emotional-Intelligence-ebook/dp/B06XVBLYVS) - *HBR Emotional Intelligence Series*
 - [ ] [Thirty Essentials: Strategy](https://www.amazon.com/Thirty-Essentials-Strategy-strategy-companies-ebook/dp/B079LQVXNB) - *Andrew Laurie*
@@ -15,7 +15,7 @@ This year my my resolution is that I will read at least 12 books.
 - [ ] [Tools of titan](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_2?ie=UTF8&qid=1546324870&sr=8-2&keywords=tools+of+titans) - *Timothy Ferriss*
 - [x] [The Old Man and The Sea](https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway/dp/0684801221/ref=sr_1_1?crid=3QEZOQHBYQX3G&keywords=old+and+the+sea&qid=1552198476&s=gateway&sprefix=old+and+the+%2Caps%2C349&sr=8-1) - *Ernest Hemingway*
 
-## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-50%25-yellow.svg)
+## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-100%25-yellow.svg)
 
 This year my resolution is that I will work on 12 open source projects
 
@@ -24,8 +24,17 @@ This year my resolution is that I will work on 12 open source projects
 - [x] [sarthology/dev10](https://github.com/sarthology/Dev10)
 - [x] [sarthology/devtocli](https://github.com/sarthology/devtocli)
 - [x] [sarthology/dragula](https://github.com/sarthology/dragula)
+- [x] [sarthology/dragula-linux](https://github.com/sarthology/dragula)
 - [x] [sarthology/moddoc](https://github.com/sarthology/moddoc)
-- [ ] [sarthology/nomoogle](https://github.com/sarthology/nomoogle)
+- [x] [sarthology/nomoogle](https://github.com/sarthology/nomoogle)
+- [x] [sarthology/caligator](https://github.com/sarthology/caligator)
+- [x] [sarthology/brogrammers](https://github.com/sarthology/brogrammers)
+- [x] [sarthology/proGramCLI](https://github.com/sarthology/proGramCLI)
+- [x] [sarthology/criCLI](https://github.com/sarthology/criCLI)
+- [x] [sarthology/youtube-detox](https://github.com/sarthology/youtube-detox)
+- [x] [skynoxtech/dev.to](https://github.com/skynoxtech/dev.to)
+- [x] [skynoxtech/dev.to](https://github.com/skynoxtech/dev.to)
+
 
 
 
@@ -38,6 +47,9 @@ This year I will maintain my body weight to 65-67kg (*current*)
 * **Feb 2019** - 65.5kg
 * **Mar 2019** - 67.2kg
 * **April 2019** - 66.8kg
+.
+.
+* **dec 2019** - 67.2kg
 
 ## Resolution 5 🤝 ![](https://img.shields.io/badge/progress-43%25-yellow.svg)
 This year my resolution is that I will publish at least 30 articles.
