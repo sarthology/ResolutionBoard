@@ -33,7 +33,6 @@ This year my resolution is that I will work on 12 open source projects
 - [x] [sarthology/criCLI](https://github.com/sarthology/criCLI)
 - [x] [sarthology/youtube-detox](https://github.com/sarthology/youtube-detox)
 - [x] [skynoxtech/dev.to](https://github.com/skynoxtech/dev.to)
-- [x] [skynoxtech/dev.to](https://github.com/skynoxtech/dev.to)
 
 
 
