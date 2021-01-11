@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/3650216/74590807-dd090280-5037-11ea-9542-22d6894ce308.png">
+  <img src="https://user-images.githubusercontent.com/3650216/104172427-405b0a80-542a-11eb-9394-bdb2579f7353.jpg">
 </div>
 
 This is The Resolution Board, a template created to help you achieve your New Year Resolutions and these are my new year resolutions.
